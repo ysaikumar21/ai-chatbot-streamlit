@@ -1,7 +1,6 @@
 streamlit
 nltk
 numpy
-pandas
 random
 pickle
 scikit-learn
