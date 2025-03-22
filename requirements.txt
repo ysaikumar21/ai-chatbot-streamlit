@@ -2,6 +2,5 @@ streamlit
 nltk
 numpy
 random
-pickle
 scikit-learn
 xgboost
